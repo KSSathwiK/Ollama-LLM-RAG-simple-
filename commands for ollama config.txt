@@ -1,0 +1,10 @@
+open terminal
+
+>ollama
+>ollama run -h
+>ollama list
+>ollama run llama2
+>/show
+>/list
+>set verbose
+> ask question
